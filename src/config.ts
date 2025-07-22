@@ -1,9 +1,9 @@
 export const SITE = {
-  website: "https://undefined.today/", // replace this with your deployed domain
+  website: "https://linuxcn.undefined.today/", // replace this with your deployed domain
   author: "Michael",
-  profile: "https://undefined.today/about",
+  profile: "https://linuxcn.undefined.today/about",
   desc: "Michael 的碎碎念。",
-  title: "undefined's Blog",
+  title: "LinuxCN Mirror",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,

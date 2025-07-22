@@ -1,41 +1,65 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "Linux中国——关于我们"
 ---
-# 关于我
+『Linux 中国』，由 wxy 和 DeadFire 创立于 2003 年。致力于 Linux 的推广教育、Linux 技术研究、自由和开源软件理念的传播。在知识传播、组织开源志愿者活动等方面，携手众多开源爱好者共同取得了一定成就。
 
-我是一个 Gopher，喜欢区块链和 Go。
+『Linux 中国』通过网站、微博、微信和邮件列表等平台传播各种 Linux 技术和资讯，并组织了[ LCTT 翻译组 ](https://linux.cn/lctt)对国外的开源方面的文章进行大量翻译，得到了开源社区的认可。
 
+Founded on 2003 as an open source community, Linux.cn has been focus on Linux developments, technical forums,  Linux community events. Through its website subscription, weblog and wechat platforms, Linux.cn has produced tremendous technical articles and resources. Its volunteering group LCTT (ab. of Linux.Cn Technical Translation) has also contributed massive amount of technical articles from overseas for domestic learners. Our mission is to make Linux.cn a place that makes learning about Linux science and technology a fun and interactive adventure.
+# 历史
+『Linux 中国』创立于 2003 年，其前身是炎黄角马（CNGNU）。在创立初期，曾经长期以论坛的方式存在，发展较为缓慢。在首任站长 DeadFire 的坚持维系下，一直保持没有中断。『Linux 中国』在 2012 年以来发展较快，已经在多平台开展内容和互动通道，除网站之外，还在包括微博、微信、QQ 邮件列表、QQ 群讨论组等多个平台拥有较大影响力。
+# 内容
+『Linux 中国』主要涉及的内容方面包括：Linux 及开源方面的新闻事件、Linux 及开源技术方面的培训普及和宣传、IT 业界相关的评论访谈等等。内容建设的渠道主要来自原创写作、原创编译和按内容协议的转载。其中原创编译工作主要来自『Linux 中国』发起建立的翻译志愿者组织 [LCTT](https://linux.cn/lctt/) 。
+# 方向与宗旨
+『Linux 中国』的发展方向为：推动 Linux 和开源在中国的发展，促进 Linux 及开源技术在国内的普及，构建开源社区环境。Linux 中国的发展宗旨是：“成为华文区一流的 Linux 与开源交流社区”
+# LCTT
+[LCTT](https://linux.cn/lctt/)，全称是：Linux.CN Translation Team，是由『Linux 中国』站长 wxy 于 2013 年 9 月 10 日倡议发起的。会员约有数百人之多，并有数十积极活跃会员。LCTT 成立以来翻译了来自国外的数千篇文章，得到业界好评。是国内开源网站重要的翻译组织之一。
 
-***这里的任何文章均不是由 AI 生成的，在 AI 横行的时代，我认为 AI 还不足以向人类传授知识，技术文章也不应该成为 AI 训练的材料。每一篇文章背后都存在独一无二的故事，这只能由人类去撰写。AI 明白世间万物的真理，也明白万物运行的真相，但它永远不会懂得创作的意义。AI 能模仿人类的语言，归纳背后的逻辑，但它永远无法超越人类。创作从来都不是冰冷的知识堆在一起，技术文章尤为如此。AI 可以成为强大的工具，但它永远无法替代那颗在求知路上不断叩问、在解决问题中感受喜悦与挫折、并渴望将这一切独特历程分享给他人的——人类的心和源于血肉之躯的实践与思考。***
+官方网站： https://linux.cn/lctt/ 
 
+翻译工作群： 198889102，验证信息：“志愿者” （仅供翻译志愿者加入）
+# 团队
+- 创始人： DeadFire、wxy
+-技术部分：
+    - 首席技术顾问：Viz
+    - 技术顾问委员会：Michael、netb2c、Bestony
+-LCTT 部分：
+    - 选题：lujun9972
+    - 校对：wxy
+    - 发布：wxy
+    - 技术：Bestony
+-社群部分：
+    - QQ 群总管理：Vio
+... ...
+# 站外平台
+## 微信矩阵
+Linux 中国的微信号形成一个矩阵联合，全方位的为您提供合适的信息资讯。
+## Linux中国 （linux-cn，订阅号）
+十万级技术订阅号，依托于『Linux中国』（https://linux.cn/）社区，专注于 Linux 学习、技术研究、开源思想传播。微信号： linux-cn，搜索“linux”即可直达，或扫描/长按如下二维码：（抱歉 暂无图片收集）
+## Linux （cn-linux，订阅号）
+Linux 技术专题订阅号，涵盖 Linux 入门学习、桌面使用技巧、系统运维、软件开发等内容，对 Linux 技术感兴趣的不容错过。微信号： cn-linux，搜索“linux”即可直达，或扫描/长按如下二维码：（抱歉 暂无图片收集）
+## 其它第三方平台
+- [今日头条](http://www.toutiao.com/m1553863776861185/)
+- [知乎](https://www.zhihu.com/people/linuxzhong-guo)
+## QQ 群
+加群验证信息：“LINUX0819”
+- 总　群: 198889101 
+- 翻译组: 198889102 
+    （翻译志愿者专属，请参考 LCTT [相关信息](https://lctt.github.io/)）
+- 运维群: 198889103 
+- 开发群: 198889104 
+- 虚拟化: 198889105 
+- 嵌入式: 198889106 
+- 水立方: 198889107 
+- 白帽子: 198889108
+- 新手村: 198889109
+- 极客群: 198870538 
+- 运维部: 120998193 
 
-## 下面是本站所采用的服务和一些开源项目：
+- 我们会在各平台更新业界“新闻、观点、技术、分享”类文章，不定期举办各种活动。欢迎大家通过任何喜欢的方式联系我们，加入到Linux中国大家族。
+## 
+- Logo：[AI](https://linux.cn/static/image/res/wxqr_linux-cn.ai.zip)
+- 微信二维码：
+    - 《Linux中国》：[AI](https://linux.cn/static/image/res/linuxcn_logo.ai.zip)
 
-- Hexo：快速、简洁且高效的博客框架
-- Cloudflare： 用于加速浏览、分析用户与 DNS 解析
-- Github： 用于托管静态网页
-- Bing Webmasters Tools： 用来将博客收录到 Microsoft Bing 搜索引擎
-- Google Search Console：用来将博客收录到 Google 搜索引擎
-- UptimeFlare： 用来搭建网站状态监控
-- Docker仓库镜像代理工具： 此项目用于建设一个帮助开发者快速拉取镜像的 Docker 镜像网站
-- PastebinWorkers：此项目用来搭建一个在线的剪切板
-
-## 下面是本站所提供的服务：
-
-- 网站监控： [https://status.undefined.today](https://status.undefined.today/)
-- 网站访问量统计：[https://pv.undefined.today](https://pv.undefined.today)
-- Docker 镜像： [https://docker.undefined.today](https://docker.undefined.today/)
-- PasteBin 在线剪切板： [https://paste.undefined.today](https://paste.undefined.today/)
-- Linux 中国镜像站：[https://linuxcn.undefined.today](https://linuxcn.undefined.today/)
-
-## 下面是本站存在的追踪器：
-
-> 浏览器自带的追踪拦截功能可以拦截大部分的追踪器。
-
-- Cloudflare Analytics： 用于分析网站情况与用户度量，会收取如访问者 IP 信息、操作系统版本、TLS 加密情况、模糊地理位置等，但不会收集敏感信息。同时，页面下方会有 CDN 分析，这也是 CloudFlare 的服务之一。 **本条目浏览器自带的追踪器拦截工具可以拦截。**
-- Google Analytics： 用于分析网站情况与用户度量，会收取访问者 IP 信息与模糊地理位置，但不会收集敏感信息。**本条目浏览器自带的追踪器拦截工具可以拦截。**
-- Microsoft Bing Webmaster Tools： 网站在收录到搜索引擎时，会收集一些必要的信息：例如您搜索了什么关键词来访到我的网站（也就是您如何找到的这个站点），但不会收集敏感信息。**本条目浏览器自带的追踪器拦截工具可以拦截。**
-- Google Search Console Analytics： 网站在收录到搜索引擎时，会收集一些必要的信息：例如您搜索了什么关键词来访到我的网站（也就是您如何找到的这个站点），但不会收集敏感信息。**本条目浏览器自带的追踪器拦截工具可以拦截。**
-- Microsoft Clarity：一款强大的埋点工具，同时它也是开源的埋点工具。本站引入主要是为了度量用户行为（遵守GDPRY和CCPA），不会收集任何隐私信息。**本条目浏览器自带的追踪器拦截工具可以拦截。**
-- 百度统计：一款强大的网站流量分析工具，本站引入主要是为了分析用户行为，比如有多少人访问了网站等等，并不会收集任何饿隐私有关的信息。**本条目浏览器自带的追踪器拦截工具可以拦截。**
