@@ -62,4 +62,5 @@ Linux 技术专题订阅号，涵盖 Linux 入门学习、桌面使用技巧、�
 - Logo：[AI](https://linux.cn/static/image/res/wxqr_linux-cn.ai.zip)
 - 微信二维码：
     - 《Linux中国》：[AI](https://linux.cn/static/image/res/linuxcn_logo.ai.zip)
-
+---
+本站基于 Vercel 搭建，图片资源来自于 Cloudflare R2，由 Cloudflare 提供 CDN 与安全防护。
