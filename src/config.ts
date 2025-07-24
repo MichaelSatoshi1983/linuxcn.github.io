@@ -2,7 +2,7 @@ export const SITE = {
   website: "https://linuxcn.undefined.today/", // replace this with your deployed domain
   author: "Michael",
   profile: "https://linuxcn.undefined.today/about",
-  desc: "Michael 的碎碎念。",
+  desc: "一个 LinuxCN 镜像站点，提供 LinuxCN 的文章和资源。",
   title: "LinuxCN Mirror",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
