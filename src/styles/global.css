@@ -3,21 +3,41 @@
 
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
+/* 全局设置 FZPXYS 字体 */
+* {
+    font-family:'Source Han Serif CN for Display' !important;
+}
+
+/* 为所有代码相关元素重置为等宽字体 */
+code, 
+pre, 
+kbd,
+.astro-code,
+.astro-code *,
+pre.shiki,
+pre.shiki * {
+  font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Monaco, Consolas, monospace !important;
+}
+
+
+
+
 :root,
 html[data-theme="light"] {
-  --background: #f5f1e6; /* 复古米色背景，带有纸张质感 */
-  --foreground: #3a2e21; /* 深棕色文字，类似老印刷品 */
-  --accent: #a62c2b; /* 复古暗红色作为强调色 */
-  --muted: #e8e0d0; /* 浅米色作为次要背景 */
-  --border: #d1c6b0; /* 浅棕色边框，呈现做旧感 */
+  --background: #dcdcdc; /* Authentic light gray background - most 90s browsers used gray by default */
+  --foreground: #000000; /* Black text - the standard for 90s web content */
+  --accent: #0000ff; /* Classic hyperlink blue - unchanged as this was accurate */
+  --muted: #c0c0c0; /* Slightly darker gray for secondary elements */
+  --border: #808080; /* Standard gray border color */
 }
 
 html[data-theme="dark"] {
-  --background: #2c2418; /* 深棕黑色背景，类似老木头 */
-  --foreground: #e6d9c3; /* 暖米色文字，提高可读性 */
-  --accent: #d4a024; /* 复古金色作为强调色 */
-  --muted: #433726; /* 深棕色次要背景 */
-  --border: #8b7857; /* 棕褐色边框，增加复古感 */
+  /* For dark theme, keeping minimal changes since dark modes weren't common in the 90s */
+  --background: #000000; /* True retro terminal style would be black */
+  --foreground: #ffffff; /* Classic green text for terminal-style displays */
+  --accent: #00ffff; /* Cyan for hyperlinks in terminal style */
+  --muted: #404040; /* Dark gray for secondary elements */
+  --border: #808080; /* Medium gray borders */
 }
 
 
